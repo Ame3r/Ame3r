@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ame3r&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ame3r&theme=great-gatsby&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
