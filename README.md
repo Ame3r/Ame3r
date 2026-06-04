@@ -1,8 +1,10 @@
 # 💫 About Me:
 
+
 ➜ Part-time Jack of all trades.
 
 ➜ AI | Robotics | Fullstack
+
 
 
 # 💻 Tech Stack:
@@ -13,9 +15,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ame3r&theme=great-gatsby&hide_border=false)
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ame3r&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
