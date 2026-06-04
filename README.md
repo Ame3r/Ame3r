@@ -1,22 +1,9 @@
 # 💫 About Me:
 
-➜ 👋 Greetings, fellow wanderers of the digital realm! 🌟
+➜ Part-time Jack of all trades.
 
-➜ Aspiring tech enthusiast exploring the mesmerizing landscapes of technology. 🚀
+➜ AI | Robotics | Fullstack
 
-➜ Python is my passion, as well as the captivating world of Artificial Intelligence. 🐍
-
-➜ 🤖 Robotics fascinates me—gears, motors, and sensors inspire my creations.
-
-➜ I aim to bring robots to life, composing the harmonious ballet of automation.
-
-➜ 🎨 I'm also delving into web development, blending design artistry with precise code.
-
-➜ From crafting captivating user experiences to shaping the fabric of the internet, I embrace web magic.
-
-➜ 🌌🔮 My journey through technology is an enchanting odyssey of innovation and discovery.
-
-➜ With Python as my ship, AI as my compass, and curiosity as my guiding star, I shall script a story that transcends imagination. 🌍
 
 # 💻 Tech Stack:
 
